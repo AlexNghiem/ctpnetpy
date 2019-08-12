@@ -1,4 +1,4 @@
-# ctpnetpy: The Python package of cTP-net
+# cTPnet: The Python package of cTP-net
 
 This package is designed to be used by the R code of [cTP-net](https://github.com/zhouzilu/cTPnet).
 
@@ -7,6 +7,6 @@ One can also use this Python package for predicting surface protein abundance fr
 ## Installation:
 
 ```
-pip install ctpnetpy
+pip install cTPnet
 ```
 The package only supports Python (>=3.5)
